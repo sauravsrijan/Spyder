@@ -1,4 +1,4 @@
-from tree_sitter import Language, Parser, Node, Tree, Query
+from tree_sitter import Language, Parser, Node, Tree
 
 from typing import Generator
 
